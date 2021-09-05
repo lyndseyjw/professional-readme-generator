@@ -6,9 +6,9 @@ Here we have a Professional README Generator where users can answer prompts that
 
 To find out how to use this application, I invite you to view this video : https://drive.google.com/file/d/1WCkbBztMlU1elmmIWDYMR8m5N0vURfLt/view
 
-Here is an example of what the command prompts will be : [command-line-user-prompts]('./assets/images/command-line-user-prompts.png')
+Here is an example of what the command prompts will be : ![command-line-user-prompts](./images/command-line-user-prompts.png)
 
-& an example of a README generated using the answers from these prompts : [example-readme-generated]('./assets/images/example-readme-generated.png')
+& an example of a README generated using the answers from these prompts : ![example-readme-generated](./images/example-readme-generated.png)
 
 I was motivated to create this application as personally, README files are not my favorite. I throughly enjoy the process of creating the code for application deployment & have not been particularly enthused to create a README file after the project has been completed. As a way to make READMEs a little more interesting, I created an appliation where users can create their READMEs in a coding format - they will use their node skills & interactive prompts to describe their project & they won't have to question the viability of a professional format, as this generator does most of the work for them. This will hopefully make web developers' lives simpler!
 
