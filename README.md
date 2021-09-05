@@ -1,6 +1,6 @@
-# test
+# Professional README Generator
 
-## test
+## A Professional README Generator Created Using Command Line User Input
 
 ## Table of Contents
 [Installation](#installation)
@@ -10,21 +10,21 @@
 [License](#license)
 [Questions](#questions)
 
-# Installation
-test
+## Installation
+Give your users a brief description about how to install your application
 
-# Usage
-test
+## Usage
+Let users know just how they are able to use your application.
 
-# Contributing
-test
+## Contributing
+Let users know who has contributed to this project.
 
-# Tests
-test
+## Tests
+This is an area where you can inform other potential contributors how they can test the code if they happen to run into any errors.
 
-# License
+## License
 This project is licensed under the terms of the MIT License.
 
-# Questions
+## Questions
 [Github Profile](https://www.github.com/lyndseyjw)
-If you have any questions, you may contact me at[lyndseyjwatson@gmail.com](mailto:lyndseyjwatson@gmail.com)
+If you have any questions, you may contact me at [lyndseyjwatson@gmail.com](mailto:lyndseyjwatson@gmail.com)
