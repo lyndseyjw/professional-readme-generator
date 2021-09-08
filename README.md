@@ -1,6 +1,6 @@
-# test
+# Professional README Generator
 
-## test
+## A Professional README Generator Using Command Line User Input
 
 ![GitHub License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
@@ -13,20 +13,20 @@
 [Questions](#questions)
 
 ## Installation
-test
+Answer all of the prompts & your answers will be stored in the appropriate sections of the Professional README
 
 ## Usage
-test
+This application will help you save time on your projects, allowing you to spend most of your time coding.
 
 ## Contributing
-test
+This application is licensed under MIT License
 
 ## Tests
-test
+You may test this application using 'npm test'
 
 ## License
 This project is licensed under the terms of the MIT License.
 
 ## Questions
-[Github Profile](https://www.github.com/test)
-If you have any questions, you may contact me at [test](mailto:test)
+[Github Profile](https://www.github.com/lyndseyjw)
+If you have any questions, you may contact me at [lyndseyjwatson@gmail.com](mailto:lyndseyjwatson@gmail.com)
